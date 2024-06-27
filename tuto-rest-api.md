@@ -2,6 +2,10 @@ how do i do the call to an API url, for example https://toto/titi/rest/alerte/li
 
 
 
+
+
+
+
 To make a call to an API URL in a Java 8 Spring 5 project, you can use the `RestTemplate` class provided by Spring. Here is a step-by-step guide on how to achieve this:
 
 1. **Add Dependencies:**
