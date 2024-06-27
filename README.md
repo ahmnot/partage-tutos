@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>how do i do the call to an API url, for example <a href="https://toto/titi/rest/alerte/lire">https://toto/titi/rest/alerte/lire</a>, which returns a json, in my Java 8 Spring 5 project?</p>
 <p>To make a call to an API URL in a Java 8 Spring 5 project, you can use the <code>RestTemplate</code> class provided by Spring. Here is a step-by-step guide on how to achieve this:</p>
 <ol>
